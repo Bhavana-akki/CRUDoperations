@@ -1,0 +1,18 @@
+:root{
+    --custompink : #ff00fe;
+    --customred : #f00;
+    --customprop : none;
+}
+
+h1{
+    background-color: var(--custompink);
+}
+
+h2{
+    background-color: var(--custompink);
+    color:var(--customred);
+}
+h3{
+    background-color: var(--custompink);
+}
+

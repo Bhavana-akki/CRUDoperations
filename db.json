@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "pname": "Old monk",
+      "pprice": "755",
+      "pqty": "22",
+      "id": 4
+    },
+    {
+      "pname": "Impherial blue",
+      "pprice": "1500",
+      "pqty": "5",
+      "id": 5
+    },
+    {
+      "pname": "bbb",
+      "pprice": "88",
+      "pqty": "22",
+      "id": 6
+    },
+    {
+      "pname": "Magic moments",
+      "pprice": "2000",
+      "pqty": "2",
+      "id": 7
+    },
+    {
+      "pname": "VODKA",
+      "pprice": "200",
+      "pqty": "2",
+      "id": 8
+    },
+    {
+      "pname": "Black n white",
+      "pprice": "1500",
+      "pqty": "3",
+      "id": 9
+    },
+    {
+      "pname": "rice",
+      "pprice": "88",
+      "pqty": "22",
+      "id": 10
+    },
+    {
+      "pname": "Black and white",
+      "pprice": "2600",
+      "pqty": "1",
+      "id": 11
+    },
+    {
+      "pname": "Old monk",
+      "pprice": "88",
+      "pqty": "254",
+      "id": 12
+    },
+    {
+      "pname": "blenders pride",
+      "pprice": "1100",
+      "pqty": "2",
+      "id": 13
+    },
+    {
+      "pname": "100 pipers",
+      "pprice": "2000",
+      "pqty": "2",
+      "id": 14
+    }
+  ]
+}
